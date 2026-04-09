@@ -1,7 +1,7 @@
 body {
-  background: linear-gradient (to right, darkmagenta, mediumvioletred); 
-  color: lavenderblush;
+  background: linear-gradient (to right, #8b008b	, #c71585); 
+  color: #fff0f5;
 }
 
-h1 {color: pink;}
+h1 {color: #ffc0cb;}
 

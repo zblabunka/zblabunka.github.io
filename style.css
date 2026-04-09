@@ -1,6 +1,5 @@
 body {
-  background: linear-gradient(45deg, darkmagenta, pink);
-  color: #fff0f5;
+  background: linear-gradient(to right, #8cadde, #fffcfc);
 }
 
 h1 {color: #ffc0cb;}

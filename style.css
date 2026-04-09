@@ -1,3 +1,7 @@
-body {background-color: darkmagenta; color: lavenderblush }
+body {
+  background: linear-gradient (to right, darkmagenta, mediumvioletred); 
+  color: lavenderblush;
+}
+
 h1 {color: pink;}
 

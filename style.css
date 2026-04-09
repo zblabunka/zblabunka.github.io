@@ -1,5 +1,5 @@
 body {
-  linear-gradient(45deg, darkmagenta, pink);
+  background: linear-gradient(45deg, darkmagenta, pink);
   color: #fff0f5;
 }
 
